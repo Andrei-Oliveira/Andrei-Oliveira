@@ -1,16 +1,12 @@
 ###  Ola  Tudo Bem
-Me Chamo Andrei Oliveira sou  programador Fron-End, atuamente estou aprendendto e criando projetos com:
+Sou o Andrei Oliveira, programador Fron-End e atuamente estou criando projetos com:
 -  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
--  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo"/> 
-Segue um projeto desenvolvido:  <a href="https://github.com/Andrei-Oliveira/Projetos-DevClub"/>Clique Aqui
+-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS-logo"/>
+-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+Segue um projeto desenvolvido com HTML5 e CSS:  <a href="https://github.com/Andrei-Oliveira/Projeto-God-of-Wars"/>Clique Aqui
 <br>
 
-Estou iciando tambem o aprendizado de JavaScript e React, ja temnho um projeto desenvolvido em Js.
-
- - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-Segue um projeto desenvolvido, desta vez utilizando aplicações em JavaScript: <a href="https://github.com/Andrei-Oliveira/PREVISAO-DO-TEMPO/blob/master/scripts.js"> Clique Aqui
+Segue um projeto desenvolvido, desta vez utilizando aplicações HTML5, CSS e JavaScript: <a href="https://github.com/Andrei-Oliveira/PREVISAO-DO-TEMPO/blob/master/scripts.js"> Clique Aqui
 	 
  ### Conhecimento também em: 
  - <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
